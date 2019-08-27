@@ -6,6 +6,9 @@ animals = None
 colors = None
 
 def gen_name():
+  """Return a string describing a colorful animal.
+  Example: \'Happy-Purple-Baboon-34\'
+  """
   install_location = os.path.abspath(os.path.dirname(__file__))
 
   global adjectives, animals, colors
