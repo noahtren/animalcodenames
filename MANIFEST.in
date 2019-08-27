@@ -1,0 +1,3 @@
+include animalcodenames/adjectives.txt
+include animalcodenames/animals.txt
+include animalcodenames/colors.txt

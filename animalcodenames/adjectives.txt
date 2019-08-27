@@ -1,0 +1,9 @@
+Large
+Small
+Fast
+Slow
+Angry
+Friendly
+Happy
+Gentle
+Mysterious
