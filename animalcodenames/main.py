@@ -19,7 +19,6 @@ def gen_name():
     assert "" not in adjectives
     assert "" not in animals
     assert "" not in colors
-    print("read files")
 
   name = '-'.join([random.choice(adjectives),
                   random.choice(colors),
