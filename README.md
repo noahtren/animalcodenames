@@ -1,5 +1,5 @@
 # Animal Codenames
-UUIDs are nice for efficiency of storage, but sometimes you just want a quick, arbitrary
+UUIDs are nice, but sometimes you just want a quick, arbitrary
 identifier that is easy to tell apart from others. What better way to do this than with
 colorful animals?
 
